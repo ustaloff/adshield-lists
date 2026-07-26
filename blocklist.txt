@@ -1,6 +1,6 @@
 # AdShield Blocklist
-# Generated: 2026-07-25T02:13:03.416713
-# Total Domains: 247367
+# Generated: 2026-07-26T02:24:25.047153
+# Total Domains: 247368
 
 0.0.0.0
 0.0.0.0.creative.hpyrdr.com
@@ -2122,6 +2122,7 @@
 360playvid.info
 360protected.com
 360tag.com
+360yield-basic.com
 360yield.com
 3615407.xyz
 3615738.xyz
