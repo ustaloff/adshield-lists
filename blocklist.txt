@@ -1,5 +1,5 @@
 # AdShield Blocklist
-# Generated: 2026-08-06T02:08:19.570102
+# Generated: 2026-08-07T02:26:31.547466
 # Total Domains: 256974
 
 0.0.0.0
