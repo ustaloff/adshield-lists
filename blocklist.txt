@@ -1,6 +1,6 @@
 # AdShield Blocklist
-# Generated: 2026-08-08T01:14:47.091491
-# Total Domains: 257561
+# Generated: 2026-08-09T01:19:20.115771
+# Total Domains: 257563
 
 0.0.0.0
 0.0.0.0.creative.hpyrdr.com
@@ -18207,6 +18207,7 @@ ampmetrics.techcrunch.com
 ampmhcbehnapwt.com
 ampower.me
 amprtc.media.net
+ampscamp.net
 amptrack-dailymail-co-uk.cdn.ampproject.org
 amptrack.dailymail.co.uk
 ampxchange.com
@@ -141187,6 +141188,7 @@ pulse.fluparks.at
 pulse.fluparks.ch
 pulse.flyparks.com.au
 pulse.ftools.fluege.de
+pulse.genki.world
 pulse.hetadreswebshop.nl
 pulse.impartner.com
 pulse.inmobi.com
