@@ -1,5 +1,5 @@
 # AdShield Blocklist
-# Generated: 2026-08-22T00:58:25.575455
+# Generated: 2026-08-23T01:02:54.482768
 # Total Domains: 265530
 
 0-ilxrc-w285.p9bckp.sbs
