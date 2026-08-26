@@ -1,6 +1,6 @@
 # AdShield Blocklist
-# Generated: 2026-08-25T01:00:15.030782
-# Total Domains: 254076
+# Generated: 2026-08-26T01:01:45.594480
+# Total Domains: 254077
 
 0-ilxrc-w285.p9bckp.sbs
 0-lxk284pre.c3kqmp.cfd
@@ -26919,6 +26919,7 @@ bbipawjflxpct.site
 bbitn.alittlesandco.com
 bbkdlawi.com
 bbkrsm.crucerosnet.com
+bbm-ad-stack-production.up.railway.app
 bbm.blubela.com
 bbmknnomcostx.site
 bbmoe.com
