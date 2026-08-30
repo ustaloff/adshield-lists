@@ -1,6 +1,6 @@
 # AdShield Blocklist
-# Generated: 2026-08-29T05:23:08.478670
-# Total Domains: 252470
+# Generated: 2026-08-30T03:18:42.676285
+# Total Domains: 252477
 
 0-ilxrc-w285.p9bckp.sbs
 0-lxk284pre.c3kqmp.cfd
@@ -4915,6 +4915,7 @@ a.vdo.ai
 a.vertamedia.com
 a.vfghd.com
 a.vfgtb.com
+a.vfgth.com
 a.vidone.net
 a.vidora.com
 a.viethu.com
@@ -11315,6 +11316,7 @@ ads.ecircles.com
 ads.economist.com
 ads.ecrush.com
 ads.edadeal.ru
+ads.egrana.com.br
 ads.ehealthcaresolutions.com
 ads.einmedia.com
 ads.eircom.net
@@ -12211,6 +12213,7 @@ ads.zascdn.me
 ads.zdn.vn
 ads.zedo.com
 ads.zeusclicks.com
+ads.zorvec.name
 ads.ztod.com
 ads.zunia.vn
 ads.zynga.com
@@ -66950,6 +66953,7 @@ fentent.stre4mplay.one
 fents.primary.com
 fenvalorax.live
 fenvalorium.net
+fenxi.com
 fenzoria.com
 fenzy.pl
 fepete.ch
@@ -139158,6 +139162,7 @@ poodlefairly.com
 poodlercojones.shop
 poohotofinisher.info
 poohsrebuild.shop
+pooinc-7dw.pages.dev
 pooksys.site
 pool-colruytgroup.adhese.com
 pool-mediafin.adhese.com
@@ -192669,6 +192674,7 @@ t.n.mcdonalds.de
 t.nattyplussupps.com
 t.nauathletics.com
 t.navysports.com
+t.nc0.co
 t.ncataggies.com
 t.neilson.co.uk
 t.neodatagroup.com
@@ -201316,6 +201322,7 @@ track.mdirector.com
 track.mdmaonlinecanada.net
 track.mdrctr.com
 track.mediaintelliview.com
+track.mediav.com
 track.mediclinic.ae
 track.meikehohenwarter.com
 track.meiko.ch
