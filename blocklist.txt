@@ -1,6 +1,6 @@
 # AdShield Blocklist
-# Generated: 2026-08-30T03:18:42.676285
-# Total Domains: 252477
+# Generated: 2026-08-31T03:14:20.155086
+# Total Domains: 252478
 
 0-ilxrc-w285.p9bckp.sbs
 0-lxk284pre.c3kqmp.cfd
@@ -129318,6 +129318,7 @@ obs.esnlocco.com
 obs.forseasky.com
 obs.greencolumnblog.com
 obs.nnm2.ru
+obs.sd4823.spglobal.com
 obs.system1onesource.com
 obscenesidewalk.com
 obscenewoman4n.com
