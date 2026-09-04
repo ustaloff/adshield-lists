@@ -1,6 +1,6 @@
 # AdShield Blocklist
-# Generated: 2026-09-03T02:42:37.327666
-# Total Domains: 252299
+# Generated: 2026-09-04T02:39:26.572932
+# Total Domains: 252301
 
 0-ilxrc-w285.p9bckp.sbs
 0-lxk284pre.c3kqmp.cfd
@@ -13201,6 +13201,7 @@ adtag.msn.ca
 adtag.primetime.adobe.com
 adtag.sphdigital.com
 adtag.sympatico.ca
+adtagj.portal-factory.com
 adtago.s3.amazonaws.com
 adtags.mobi
 adtags.pro
@@ -142058,6 +142059,7 @@ pubads-wiinvent.tv360.vn
 pubads.g.doubleclick.net
 pubads.wiinvent.tv
 pubadx.one
+pubbug.com
 pubcircle.ai
 pubcoderace.com
 pubdirecte.com
