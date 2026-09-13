@@ -1,6 +1,6 @@
 # AdShield Blocklist
-# Generated: 2026-09-12T02:53:05.992126
-# Total Domains: 252490
+# Generated: 2026-09-13T02:51:54.888361
+# Total Domains: 252491
 
 0-ilxrc-w285.p9bckp.sbs
 0-lxk284pre.c3kqmp.cfd
@@ -200804,6 +200804,7 @@ track.drewintl.com
 track.duelbits.com
 track.dunstan.media
 track.dvdbox.com
+track.dws.com
 track.e-family.ro
 track.e.batesville.com
 track.e7r.com.br
