@@ -1,5 +1,5 @@
 # AdShield Blocklist
-# Generated: 2026-09-15T03:07:52.842535
+# Generated: 2026-09-16T03:04:43.903875
 # Total Domains: 251782
 
 0-lxk284pre.c3kqmp.cfd
