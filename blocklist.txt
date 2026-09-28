@@ -1,6 +1,6 @@
 # AdShield Blocklist
-# Generated: 2026-09-27T03:22:12.045600
-# Total Domains: 251861
+# Generated: 2026-09-28T03:19:19.215861
+# Total Domains: 251862
 
 0.0.0.0
 0.0.0.0.creative.hpyrdr.com
@@ -38926,6 +38926,7 @@ click-v4.exmainclck.com
 click-v4.exmainclckback.com
 click-v4.exmnclk.com
 click-v4.exoclkneu.com
+click-v4.expclknb.com
 click-v4.expilaclkdir.com
 click-v4.explodasclksec.com
 click-v4.explodnmainclck.com
