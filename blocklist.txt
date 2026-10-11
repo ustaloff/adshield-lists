@@ -1,6 +1,6 @@
 # AdShield Blocklist
-# Generated: 2026-10-10T04:03:59.750560
-# Total Domains: 245609
+# Generated: 2026-10-11T03:39:46.691921
+# Total Domains: 245610
 
 0.0.0.0
 0.0.0.0.creative.hpyrdr.com
@@ -157152,6 +157152,7 @@ sesja-81.web.id
 sesja-v-519204.eu.cc
 sesja-v-840291.eu.cc
 sesktomr.furniturebox.co.uk
+session.bugsnag.kindle.amazon.dev
 session.mediacharge.com
 session.timecommerce.net
 sessionapi.veinteractive.com
