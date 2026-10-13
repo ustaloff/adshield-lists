@@ -1,6 +1,6 @@
 # AdShield Blocklist
-# Generated: 2026-10-12T04:03:23.207793
-# Total Domains: 245610
+# Generated: 2026-10-13T05:12:35.387577
+# Total Domains: 245611
 
 0.0.0.0
 0.0.0.0.creative.hpyrdr.com
@@ -47138,6 +47138,7 @@ darmowekino.pl
 darmowyfilmrfm44.ek1.pl
 darmowyfilmzlektoremoas10.ek1.pl
 darnedsweaty.cfd
+darngavel.com
 darnobedienceupscale.com
 darnuid.netflix.com
 daro.so
