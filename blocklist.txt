@@ -1,6 +1,6 @@
 # AdShield Blocklist
-# Generated: 2026-10-20T03:10:06.249559
-# Total Domains: 251280
+# Generated: 2026-10-21T03:05:00.450977
+# Total Domains: 251282
 
 0.0.0.0
 0.0.0.0.creative.hpyrdr.com
@@ -9152,6 +9152,7 @@ ad.turn.com
 ad.turn.com.akadns.net
 ad.tv2.no
 ad.tw.doubleclick.net
+ad.twinrdengine.com
 ad.u-car.com.tw
 ad.uk.doubleclick.net
 ad.unique1static.jp
@@ -101230,6 +101231,7 @@ l.amamin.jp
 l.ashita-sanuki.jp
 l.betrad.com
 l.boo-log.com
+l.ca.ovhcloud.com
 l.chesuto.jp
 l.citylife-new.com
 l.d.eclick.vn
