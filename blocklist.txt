@@ -1,6 +1,6 @@
 # AdShield Blocklist
-# Generated: 2026-10-22T03:03:39.089272
-# Total Domains: 251282
+# Generated: 2026-10-23T03:08:04.097879
+# Total Domains: 251283
 
 0.0.0.0
 0.0.0.0.creative.hpyrdr.com
@@ -174579,6 +174579,7 @@ spyhunter-download.s3.amazonaws.com
 spylees.com
 spylog.com
 spylog.ru
+spyrep.com
 spysubstance.com
 spytrack.tic.ru
 spytsg.horti.jp
