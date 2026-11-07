@@ -1,6 +1,6 @@
 # AdShield Blocklist
-# Generated: 2026-11-06T04:52:13.324904
-# Total Domains: 263491
+# Generated: 2026-11-07T04:23:30.707009
+# Total Domains: 263492
 
 0.0.0.0
 0.0.0.0.creative.hpyrdr.com
@@ -40056,6 +40056,7 @@ clickadddilla.com
 clickadilla.com
 clickadsource.com
 clickadu.com
+clickadu.io
 clickadu.net
 clickadz.com
 clickagents.com
@@ -136486,7 +136487,6 @@ offers.impower.com
 offers.jazelauto.com
 offers.la-z-boy.com
 offers.linkelectric.com
-offers.ltsc-has.com
 offers.nordvpn.com
 offers.propellerads.com
 offers.royalvegascasino.com
@@ -145597,6 +145597,7 @@ playukinternet.com
 playvideoclub.com
 playvideodirect.com
 playvod.pl
+playwarren.com
 playweez.pl
 playwire.com
 playzee.fr
