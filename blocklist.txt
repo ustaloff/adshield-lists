@@ -1,6 +1,6 @@
 # AdShield Blocklist
-# Generated: 2026-11-10T05:45:42.218078
-# Total Domains: 263950
+# Generated: 2026-11-11T04:27:13.542298
+# Total Domains: 263951
 
 0.0.0.0
 0.0.0.0.creative.hpyrdr.com
@@ -159213,6 +159213,7 @@ s.ankerbjerre.dk
 s.antaestudio.com
 s.apak.se
 s.applyrtt.com
+s.appreports.net
 s.arclk.net
 s.arkaan.sa
 s.artcraftweb.org
