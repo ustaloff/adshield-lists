@@ -1,6 +1,6 @@
 # AdShield Blocklist
-# Generated: 2026-11-11T04:27:13.542298
-# Total Domains: 263951
+# Generated: 2026-11-12T05:31:49.449382
+# Total Domains: 263952
 
 0.0.0.0
 0.0.0.0.creative.hpyrdr.com
@@ -41221,6 +41221,7 @@ coalbuffalo.com
 coalitionconcessionbecause.com
 coalkitchen.com
 coalleccssjoannes.info
+coalmerchants.com
 coalyelves.com
 coarseschool.com
 coastalbloom.xyz
