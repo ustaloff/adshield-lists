@@ -1,6 +1,6 @@
 # AdShield Blocklist
-# Generated: 2026-11-12T05:31:49.449382
-# Total Domains: 263952
+# Generated: 2026-11-13T04:49:40.470720
+# Total Domains: 263953
 
 0.0.0.0
 0.0.0.0.creative.hpyrdr.com
@@ -181094,6 +181094,7 @@ specialty75.com
 specialtypin.com
 specialworld.com.au
 speciedecerp.com
+speciesjewelry.com
 specific-property.pro
 specificallycries.com
 specificallyfollowsbraid.com
