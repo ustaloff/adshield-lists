@@ -1,6 +1,6 @@
 # AdShield Blocklist
-# Generated: 2026-11-14T04:43:08.829112
-# Total Domains: 263041
+# Generated: 2026-11-15T04:34:13.312359
+# Total Domains: 263043
 
 0.0.0.0
 0.0.0.0.creative.hpyrdr.com
@@ -7903,6 +7903,7 @@ abtshield.com
 abtthlftcjqoz.site
 abttwfawimtrq.site
 abtykeajetlyv.online
+abu.usaday.biz
 abuaac.suzette-shop.jp
 abuajs.e-monsite.com
 abufc.moroccanoil.com
@@ -49343,6 +49344,7 @@ dasensiblem.org
 daserver.ultraweb.hu
 dash.applovin.com
 dash.getsitecontrol.com
+dash.kryon.one
 dash.tmearn.com
 dash.zintrack.com
 dash58wl.com
