@@ -1,6 +1,6 @@
 # AdShield Blocklist
-# Generated: 2026-11-16T04:30:52.641118
-# Total Domains: 261789
+# Generated: 2026-11-17T06:16:03.201687
+# Total Domains: 261790
 
 0.0.0.0
 0.0.0.0.creative.hpyrdr.com
@@ -208014,6 +208014,7 @@ tophosting101.com
 topicalcartel.com
 topicjungle.com
 topicmagnitude.com
+topicspin.com
 topiz.ru
 topklik.com
 toplabs71.top
