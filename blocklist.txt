@@ -1,6 +1,6 @@
 # AdShield Blocklist
-# Generated: 2026-11-17T06:16:03.201687
-# Total Domains: 261790
+# Generated: 2026-11-18T05:42:56.972132
+# Total Domains: 261791
 
 0.0.0.0
 0.0.0.0.creative.hpyrdr.com
@@ -180513,6 +180513,7 @@ sportsplmarket.shop
 sportssaint.net
 sportstoday.pro
 sportsvot.com
+sportswidows.com
 sportupdates.info
 sportvision-bgmccc.sbs
 sportvisionsale-bg.shop
