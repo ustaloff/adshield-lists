@@ -1,6 +1,6 @@
 # AdShield Blocklist
-# Generated: 2026-11-18T05:42:56.972132
-# Total Domains: 261791
+# Generated: 2026-11-19T05:41:54.472427
+# Total Domains: 261792
 
 0.0.0.0
 0.0.0.0.creative.hpyrdr.com
@@ -25994,6 +25994,7 @@ axabpelvjfqav.site
 axacqy.henderson.ru
 axb4.vivabox.it
 axbtkerm.shop
+axcii.com
 axddzs.camping-and-co.com
 axdget-sync.nuggad.net
 axdtpea.drmarino.ch
