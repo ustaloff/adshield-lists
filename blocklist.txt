@@ -1,6 +1,6 @@
 # AdShield Blocklist
-# Generated: 2026-11-20T05:30:06.838819
-# Total Domains: 261792
+# Generated: 2026-11-21T05:24:06.272962
+# Total Domains: 261793
 
 0.0.0.0
 0.0.0.0.creative.hpyrdr.com
@@ -106863,6 +106863,7 @@ links.npsemails.mbna.co.uk
 links.onlinedownloads.org
 links.outster.com
 links.prax.oregonstate.edu
+links.prosservice.fr
 links.riverview.org
 links.services.disqus.com
 links.sexlist.com
