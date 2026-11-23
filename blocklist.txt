@@ -1,6 +1,6 @@
 # AdShield Blocklist
-# Generated: 2026-11-22T04:49:11.808290
-# Total Domains: 261793
+# Generated: 2026-11-23T05:28:46.588211
+# Total Domains: 261794
 
 0.0.0.0
 0.0.0.0.creative.hpyrdr.com
@@ -130183,6 +130183,7 @@ native-track.com
 native.ai
 native.cli.bz
 native.sharethrough.com
+native123.com
 nativead.s3.amazonaws.com
 nativeadmatch.com
 nativeads.com
