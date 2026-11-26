@@ -1,6 +1,6 @@
 # AdShield Blocklist
-# Generated: 2026-11-25T06:44:45.603752
-# Total Domains: 267366
+# Generated: 2026-11-26T06:36:10.394689
+# Total Domains: 267367
 
 0.0.0.0
 0.0.0.0.creative.hpyrdr.com
@@ -208615,6 +208615,7 @@ timeoutcommunications.122.2o7.net
 timepeople.122.2o7.net
 timepespanol.122.2o7.net
 timepopsci.122.2o7.net
+timeprince.com
 timerealsimple.112.2o7.net
 timesmonarchcivil.com
 timespctenbest.122.2o7.net
