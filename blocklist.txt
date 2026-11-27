@@ -1,6 +1,6 @@
 # AdShield Blocklist
-# Generated: 2026-11-26T06:36:10.394689
-# Total Domains: 267367
+# Generated: 2026-11-27T06:26:50.736151
+# Total Domains: 267369
 
 0.0.0.0
 0.0.0.0.creative.hpyrdr.com
@@ -29361,6 +29361,7 @@ berry.strathberry.com
 berryen.com
 berryhillfarmgwent.com
 berryplunker.cyou
+berrytots.com
 berseemkidvidpizazz.qpon
 berserkhydrant.com
 bersh9ka.top
@@ -35638,6 +35639,7 @@ cap.88ads.xyz
 cap.deshizone.com.bd
 cap.flaviogoyon.com
 cap.gmrpeptides.com
+capablepotato.com
 capablespruer.qpon
 capabletonight.com
 capaciousdrewreligion.com
